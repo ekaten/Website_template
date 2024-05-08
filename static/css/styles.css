@@ -1,0 +1,20 @@
+html {box-sizing: border-box;}
+
+
+/* Find backgrounds at https://unsplash.com/ */
+body {
+    height: 100vh !important;
+    width: 100vw !important;
+    background:transparent url('https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=3458&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 43%;
+    background-attachment: fixed;
+}
+
+footer {
+    margin-top: 5rem;
+    position: relative !important;
+    bottom: 0 !important;
+}
